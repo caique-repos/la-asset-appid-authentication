@@ -1,0 +1,19 @@
+{
+  "errors": {
+    "missingEmail": "O campo email é obrigatório",
+    "invalidEmailFormat": "O email fornecido está em um formato invalido",
+    "missingPassword": "O campo password é obrigatório",
+    "invalidPasswordType": "A senha deve ser uma string",
+    "invalidPasswordLength": "A senha deve ter pelo menos 8 caracteres",
+    "invalidDisplaynameType": "O displayName deve ser uma string",
+    "invalidNicknameType": "O nickName deve ser uma string",
+    "missingPasswordConfirmation": "O campo passwordConfirmation é obrigatório",
+    "invalidPasswordConfirmationMatch": "A confirmação da senha não corresponde à senha",
+    "userUnauthenticated": "O usuário não está autenticado",
+    "emailAlreadyTaken": "O email que você digitou já está em uso",
+    "invalidEmailOrPasswordMatch": "O email ou a senha que você digitou está invalido"
+  },
+  "signInSuccess": "Seja bem vindo, {{email}}",
+  "signUpSuccess": "Usuário {{email}} criado com sucesso",
+  "featureUnavailable": "A funcionalidade de {{feature}} não está disponível"
+}

@@ -1,0 +1,19 @@
+{
+  "errors": {
+    "missingEmail": "The email field is required",
+    "invalidEmailFormat": "The email provided is in an invalid format",
+    "missingPassword": "The password field is required",
+    "invalidPasswordType": "The password must be a string",
+    "invalidPasswordLength": "The password must be at least 8 characters",
+    "invalidDisplaynameType": "The displayName must be a string",
+    "invalidNicknameType": "The nickName must be a string",
+    "missingPasswordConfirmation": "The passwordConfirmation field is required",
+    "invalidPasswordConfirmationMatch": "The password confirmation does not match password",
+    "userUnauthenticated": "User is not authenticated",
+    "emailAlreadyTaken": "The email that you entered is already taken",
+    "invalidEmailOrPasswordMatch": "The email or password you entered is invalid"
+  },
+  "signInSuccess": "Welcome, {{email}}",
+  "signUpSuccess": "User {{email}} created successfully",
+  "featureUnavailable": "The {{feature}} feature is not available"
+}

@@ -1,0 +1,19 @@
+{
+  "errors": {
+    "missingEmail": "El campo de email es requerido",
+    "invalidEmailFormat": "El correo electrónico proporcionado tiene un formato no válido",
+    "missingPassword": "El campo de password es requerido",
+    "invalidPasswordType": "La contraseña debe ser una cadena",
+    "invalidPasswordLength": "La contraseña debe tener al menos 8 caracteres",
+    "invalidDisplaynameType": "El displayName debe ser una cadena",
+    "invalidNicknameType": "El nickName debe ser una cadena",
+    "missingPasswordConfirmation": "El campo de passwordConfirmation es requerido",
+    "invalidPasswordConfirmationMatch": "La confirmación de la contraseña no coincide con la contraseña",
+    "userUnauthenticated": "El usuario no está autenticado",
+    "emailAlreadyTaken": "El correo electrónico que ingresaste ya está en uso",
+    "invalidEmailOrPasswordMatch": "El correo electrónico o la contraseña que ingresó no son válidos"
+  },
+  "signInSuccess": "Bienvenido, {{email}}",
+  "signUpSuccess": "Usuario {{email}} creado con éxito",
+  "featureUnavailable": "La función de {{feature}} no está disponible"
+}
